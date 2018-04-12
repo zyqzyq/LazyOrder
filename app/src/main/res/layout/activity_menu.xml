@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.zyqzyq.lazyorder.MenuActivity"
+    android:background="@color/menuBg"
     android:orientation="vertical">
     <android.support.v7.widget.Toolbar
         android:id="@+id/menu_toolbar"
@@ -22,10 +23,12 @@
         android:id="@+id/add_btn"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:backgroundTint="@color/btnBg"
         android:text="@string/add_btn_info"/>
 
     <Button
         android:id="@+id/cancel_btn"
+        android:backgroundTint="@color/btnBg"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:text="@string/cancel_btn_info"/>

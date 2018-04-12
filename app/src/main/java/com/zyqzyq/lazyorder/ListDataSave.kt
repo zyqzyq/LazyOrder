@@ -53,4 +53,10 @@ class ListDataSave(mContext: Context, preferenceName: String) {
         return datalist
 
     }
+
+    fun emptyDataList(): Unit{
+        editor.clear()
+        editor.commit()
+
+    }
 }

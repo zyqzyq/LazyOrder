@@ -16,7 +16,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:gravity="center"
-        android:background="@color/colorPrimary">
+        android:background="@color/mainBg">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -32,7 +32,8 @@
             android:layout_gravity="center"
             android:text="@string/start_order"
             android:textAlignment="center"
-            android:textSize="36sp"/>
+            android:background="@color/btnBg"
+            android:textSize="@dimen/btn_size"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -40,7 +41,7 @@
             android:layout_gravity="center"
             android:text="@string/order_hint"
             android:textAlignment="center"
-            android:textSize="24sp" />
+            android:textSize="@dimen/hint_size" />
     </LinearLayout>
 
 

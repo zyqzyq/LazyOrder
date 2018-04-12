@@ -2,8 +2,10 @@
     <string name="app_name">懒人点餐</string>
     <string name="today_label">今天吃</string>
     <string name="start_order">开始点餐</string>
-    <string name="order_hint">（点击开始随机点餐或者摇一摇）</string>
+    <string name="order_hint">（点击开始随机点餐）</string>
     <string name="menu_hint">请输入菜名</string>
     <string name="add_btn_info">添加新菜</string>
     <string name="cancel_btn_info">清空菜单</string>
+    <string name="order_ok_info">确认点餐</string>
+    <string name="order_another_info">重新选择</string>
 </resources>
