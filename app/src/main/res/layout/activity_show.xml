@@ -7,35 +7,43 @@
     android:orientation="vertical"
     tools:context="com.zyqzyq.lazyorder.ShowActivity"
     android:background="@color/showBg">
-    <TextView
-        android:id="@+id/order_text"
-        android:textSize="@dimen/show_size"
-        android:gravity="center"
-        android:layout_weight="1"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:id="@+id/show_page"
         android:layout_weight="1"
-        android:layout_gravity="center"
-        android:orientation="horizontal">
-
-        <Button
-            android:id="@+id/order_ok"
-            android:backgroundTint="@color/btnBg"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/order_text"
+            android:textSize="@dimen/show_size"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/order_ok_info"
-            android:textSize="@dimen/btn_size"/>
-        <Button
-            android:id="@+id/order_another"
-            android:backgroundTint="@color/btnBg"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/order_another_info"
-            android:textSize="@dimen/btn_size"/>
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
 
+            <Button
+                android:id="@+id/order_ok"
+                android:backgroundTint="@color/btnBg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/order_ok_info"
+                android:textSize="@dimen/btn_size"
+                android:layout_margin="@dimen/btn_margin"/>
+            <Button
+                android:id="@+id/order_another"
+                android:backgroundTint="@color/btnBg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/order_another_info"
+                android:textSize="@dimen/btn_size"
+                android:layout_margin="@dimen/btn_margin"/>
+
+        </LinearLayout>
     </LinearLayout>
-
 </LinearLayout>

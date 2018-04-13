@@ -4,7 +4,6 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.startActivity
-import android.content.Intent
 import org.jetbrains.anko.toast
 
 
@@ -31,17 +30,8 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-    fun randomOrder(){
-        val num = (Math.random() * strs.size).toInt()
-        val order_name = strs[num]
-        //携带数据
-        val intent = Intent(this@MainActivity, ShowActivity::class.java)
-        val bundle = Bundle()
-        bundle.putString("name", order_name)
-        //把附加的数据放到意图当中
-        intent.putExtras(bundle)
-        //执行意图
-        startActivity(intent)
+    private fun randomOrder(){
+        startActivity<ShowActivity>()
     }
     override fun onResume() {
         super.onResume()

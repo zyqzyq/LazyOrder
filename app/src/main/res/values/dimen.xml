@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="btn_size">36sp</dimen>
+    <dimen name="btn_size">30sp</dimen>
+    <dimen name="btn_margin">3sp</dimen>
     <dimen name="label_size">36sp</dimen>
     <dimen name="show_size">72sp</dimen>
     <dimen name="hint_size">24sp</dimen>
+    <dimen name="loading_padding">36sp</dimen>
 </resources>
