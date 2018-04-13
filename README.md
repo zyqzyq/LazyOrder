@@ -1,20 +1,21 @@
-# ÀÁÈËµã²Í
+# æ‡’äººç‚¹é¤
 
-¸ù¾İ±¾µØ²Ëµ¥½øĞĞËæ»úÑ¡²Í¡£
+æ ¹æ®æœ¬åœ°èœå•è¿›è¡Œéšæœºé€‰é¤ã€‚
 
-[APKÏÂÔØµØÖ·](https://github.com/zyqzyq/LazyOrder/blob/master/app/release/lazyorder-1.0.0-release.apk?raw=true)
+[APKä¸‹è½½åœ°å€](https://github.com/zyqzyq/LazyOrder/blob/master/app/release/lazyorder-1.0.0-release.apk?raw=true)
+é…·å®‰é“¾æ¥ï¼š[https://www.coolapk.com/apk/183310](https://www.coolapk.com/apk/183310)
 
-# Ê¾Àı
+# ç¤ºä¾‹
 
-### Ö÷Ò³Ãæ
+### ä¸»é¡µé¢
 ![](https://raw.githubusercontent.com/zyqzyq/LazyOrder/master/screenshots/1.png)
 
-### ²Ëµ¥Ò³
+### èœå•é¡µ
 ![](https://raw.githubusercontent.com/zyqzyq/LazyOrder/master/screenshots/2.png)
 
-### ĞÂÔö²ËÃû
+### æ–°å¢èœå
 ![](https://raw.githubusercontent.com/zyqzyq/LazyOrder/master/screenshots/3.png)
 
-### Ñ¡²ÍÏÔÊ¾
+### é€‰é¤æ˜¾ç¤º
 ![](https://raw.githubusercontent.com/zyqzyq/LazyOrder/master/screenshots/4.png)
 
