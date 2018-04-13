@@ -4,12 +4,13 @@
 
 选择困难症和懒人的福音，你再也不用为每天去哪里吃，每天吃什么而纠结。
 
-## 更新
+# 更新
 
 ### v 1.0.1
 
-添加载入动画
+	添加载入动画
 
+# 下载
 [APK下载地址](https://github.com/zyqzyq/LazyOrder/blob/master/app/release/lazyorder-1.0.1-release.apk?raw=true)
 
 酷安链接：[https://www.coolapk.com/apk/183310](https://www.coolapk.com/apk/183310)
