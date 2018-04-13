@@ -12,6 +12,8 @@
 
 [APK下载地址](https://github.com/zyqzyq/LazyOrder/blob/master/app/release/lazyorder-1.0.1-release.apk?raw=true)
 
+酷安链接：[https://www.coolapk.com/apk/183310](https://www.coolapk.com/apk/183310)
+
 # 示例
 
 ### 主页面
@@ -25,6 +27,7 @@
 
 ### 选餐显示
 ![](https://raw.githubusercontent.com/zyqzyq/LazyOrder/master/screenshots/4.png)
+
 
 # 建议
 
